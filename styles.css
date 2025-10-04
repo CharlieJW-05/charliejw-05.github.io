@@ -472,6 +472,11 @@ p {
         font-size: 0.9rem;
     }
     
+    /* Mobile photo positioning - show you with laptop */
+    .hero-image {
+        object-position: center 60%;
+    }
+    
     .name-line {
         font-size: 3rem;
     }
